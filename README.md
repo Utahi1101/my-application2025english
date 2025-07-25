@@ -17,8 +17,12 @@
 
 ・各単語の出力回数の表示
 
-# 使用した技術（AI）
+# 使用した技術（AIなど）
 ChatGPT、Google Gemini
+利用API:
+- Random Word API (https://random-word-api.herokuapp.com/)
+- Dictionary API (https://dictionaryapi.dev/) [CC BY-SA 3.0]
+- LibreTranslate (https://libretranslate.com/) [AGPL v3]
 
 
 # リンク
@@ -26,5 +30,8 @@ ChatGPT、Google Gemini
 
 # 使用方法
 
+
+- 翻訳処理はプロキシサーバーを経由して行われます。
+- 本アプリはこれらのサービスの利用規約を順守しています。
 
 # 
